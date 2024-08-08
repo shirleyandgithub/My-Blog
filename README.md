@@ -1,1 +1,1 @@
-personal blog是SpringBoot2+Thymeleaf+Mybatis建造的个人博客网站
+基于SpringBoot2+Thymeleaf+Mybatis建造的个人博客网站
