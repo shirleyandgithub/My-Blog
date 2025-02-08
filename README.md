@@ -1,4 +1,3 @@
-基于SpringBoot2+Thymeleaf+Mybatis建造的个人博客网站
 
 
 开发栈：JAVA + SpringBoot + Thymeleaf + Mybatis + Mysql
